@@ -7,5 +7,7 @@ CREATE TABLE retail_sales(
     unit_price NUMERIC(10,2),
     customer_id INT,
     country VARCHAR(100)
-)
+);
+
+SELECT * FROM retail_sales;
 
